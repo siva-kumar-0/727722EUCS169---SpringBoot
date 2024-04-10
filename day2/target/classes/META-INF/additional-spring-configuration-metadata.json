@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "Register_No",
+    "type": "java.lang.Integer",
+    "description": "A description for 'Register_No'"
+  },
+  {
+    "name": "Name",
+    "type": "java.lang.String",
+    "description": "A description for 'Name'"
+  },
+  {
+    "name": "Course",
+    "type": "java.lang.String",
+    "description": "A description for 'Course'"
+  },
+  {
+    "name": "Register_No",
+    "type": "java.lang.String",
+    "description": "A description for 'Register_No'"
+  },
+  {
+    "name": "Register_No",
+    "type": "java.lang.String",
+    "description": "A description for 'Register_No'"
+  },
+  {
+    "name": "RegisterNo",
+    "type": "java.lang.String",
+    "description": "A description for 'RegisterNo'"
+  }
+]}
