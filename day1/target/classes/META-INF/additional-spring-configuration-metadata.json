@@ -1,0 +1,10 @@
+{"properties": [{
+  "name": "name",
+  "type": "java.lang.String",
+  "description": "A description for 'name'"
+},
+{
+  "name":"Age",
+  "type":"java.lang.Integer"
+}
+]}
